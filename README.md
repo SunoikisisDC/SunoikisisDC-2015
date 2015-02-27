@@ -4,3 +4,5 @@
 
 <a href="https://docs.google.com/document/d/1cPfOKTnGc5Mhu7UyA3LEdh5i990vpV0Fg1X23JS9vqc/edit#">SS 2015 Course Syllabus</a>
 
+<a href="https://github.com/SunoikisisDC/SunoikisisDC-2015/wiki">Wiki</a>
+
