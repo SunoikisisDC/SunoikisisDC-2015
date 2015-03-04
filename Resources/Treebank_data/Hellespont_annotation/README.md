@@ -1,14 +1,22 @@
 #Hellespont materials
 ##What is this?
 This folder includes all the treebank files and resources produced during the [Hellespont Project](http://hellespont.dainst.org/startpage/). In particular, it provides all the materials that should be needed in order to visualize, browse, query and manipulate our flagship **Tectogrammatical Annotation** of Ancient Greek. Yuhuuuu!
+
 If you want to know more about Tectogrammatical Annotation of Greek, please refer to the [Documentation](http://hellespont.dainst.org/startpage/docu.html#Linguistic-Annotation) of Hellespont and the literature quoted there, or you may want to read this tiny little [blog post](http://wp.chs.harvard.edu/chs-fellows/2013/03/08/deep-into-the-meaning-tectogrammatical-annotation-of-ancient-greek/) of mine. Don't be scared, it's a lot of fun!
+
 ##What files do we have?
 The actual treebanks files are provided in two different (yet slightly equivalent) formats:
+
 1. the **Treex** format, which includes a bunch of supplementary information on the named entities and is visualized with the two trees for the sentences side by side
+
 2. the 3-layer format typical of the **PDT 2.0** (Prague Dependency Treebank), where the information is stored in 4 different files: text (.w), morphology (.m), surface syntax, or analytical (.a), tectogrammatical (.t)
+
 The rest of the folder includes a few supplementary resources:
+
 * the xml schemata for the annotation of Greek; note: you will **need them** if you want to work with the annotation (see next question)
+
 * the valency dictionary: strictly speaking, you won't need it, but it's a fundamental part of the linguistic annotation.
+	
 ##What should I do with all this?
 You can easily open, visualize, query and even edit the files with the software [TrEd](http://ufal.mff.cuni.cz/tred/), developed by the team of the Prague Dependency Treebank:
 1. go to the [TrEd page](http://ufal.mff.cuni.cz/tred/)
