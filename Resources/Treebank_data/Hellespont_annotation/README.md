@@ -7,7 +7,7 @@ If you want to know more about Tectogrammatical Annotation of Greek, please refe
 ##What files do we have?
 The actual treebanks files are provided in two different (yet slightly equivalent) formats:
 
-1. the **Treex** format, which includes a bunch of supplementary information on the named entities and is visualized with the two trees for the sentences side by side
+1. the **Treex** format (in the treex folder), which includes a bunch of supplementary information on the named entities and is visualized with the two trees for the sentences side by side
 
 2. the 3-layer format typical of the **PDT 2.0** (Prague Dependency Treebank), where the information is stored in 4 different files: text (.w), morphology (.m), surface syntax, or analytical (.a), tectogrammatical (.t)
 
@@ -29,7 +29,12 @@ You can easily open, visualize, query and even edit the files with the software 
 
 * if you're on **Mac**: the .dmg file is also installed very easily; I honestly don't remember if they are required by the latest version, but it's always a good idea to have the Xcode utilities installed (some add-ons require them) Unfortunately, though, I have experienced an annoying bug on Yosemite that makes it almost impossible to use the GUI...
 
-**IMPORTANT**: in order to load the files, TrEd must be able to find the appropriate schemata. The easiest thing is to copy the whole content of the "schemata" subfolder in the same folder where the annotation files are.
+3. open TrEd and install a bunch of useful plugins. I would recommend:
+
+* **PML-Tree Query** (see next question)
+* **Easy Treex**, that will let you see the .treex files
+
+**IMPORTANT**: in order to load the files, TrEd must be able to find the appropriate schemata. The easiest thing is simply to copy the whole content of the "schemata" subfolder in the same folder where you are keeping the annotation files.
 
 ##What about querying?
 
