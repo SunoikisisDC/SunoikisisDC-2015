@@ -1,0 +1,1 @@
+* [Thuc. 2.35-46 Pericles' Funeral Oration](http://www.dh.uni-leipzig.de/wo/wokshops-seminars/sunoikisis-dc-2015/)
