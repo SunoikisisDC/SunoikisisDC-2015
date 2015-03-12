@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<treebank xml:lang="grc" format="aldt" version="1.5">
+   <date>Sat Mar 07 09:01:22 +0000 2015</date>
+   <annotator>
+      <short/>
+      <name/>
+      <address/>
+      <uri>http://services2.perseids.org/llt/segtok</uri>
+   </annotator>
+   <annotator>
+      <short/>
+      <name/>
+      <address/>
+      <uri>http://github.com/latin-language-toolkit/arethusa</uri>
+   </annotator>
+   <annotator>
+      <short>nevenjovanovic</short>
+      <name>Neven Jovanović</name>
+      <address>filologanoga@gmail.com</address>
+      <uri>http://data.perseus.org/sosol/users/nevenjovanovic</uri>
+   </annotator>
+   
+   <sentence id="2" document_id="urn:cts:greekLit:tlg0003.tlg001.perseus-grc1"
+             subdoc="2.2.2-2.2.3"
+             span="">
+      <word id="1" form="ἔπραξαν" lemma="" postag="" relation="" head=""/>
+      <word id="2" form="δὲ" lemma="δέ" postag="d--------" relation="" head=""/>
+      <word id="3" form="ταῦτα" lemma="οὗτος" postag="p-p---na-" relation="" head=""/>
+      <word id="4" form="δι᾽" lemma="διά" postag="r--------" relation="" head=""/>
+      <word id="5" form="Εὐρυμάχου" lemma="Εὐρύμαχος" postag="n-s---mg-" relation=""
+            head=""/>
+      <word id="6" form="τοῦ" lemma="ὁ" postag="l-s---mg-" relation="" head=""/>
+      <word id="7" form="Λεοντιάδου" lemma="Λεοντιάδης" postag="n-s---mg-" relation=""
+            head=""/>
+      <word id="8" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+      <word id="9" form="ἀνδρὸς" lemma="ἀνήρ" postag="n-s---mg-" relation="" head=""/>
+      <word id="10" form="Θηβαίων" lemma="Θηβαῖος" postag="a-p---mg-" relation="" head=""/>
+      <word id="11" form="δυνατωτάτου" lemma="δυνατός" postag="a-s---mgs" relation=""
+            head=""/>
+      <word id="12" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+   </sentence>
+   
+</treebank>
