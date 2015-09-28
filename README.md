@@ -12,6 +12,6 @@
 * [Sunoikisis Digital Classics - Digital Classicist Seminar Series London 2015 - slides] (https://github.com/SunoikisisDC/SunoikisisDC-2015/blob/master/SunoikisisDC_DigitalClassicistLondon_July10_2015.pdf) - [live broadcast] (https://www.youtube.com/watch?v=yA0NqWhP_6w) 
 
 ===
-* [Marja Vierros ja Timo Korkiakangas, SunoikisisDC - liitouma klassisten kielten opettamiseksi, Folium Classicum, 88, 2015 (report on the SunoikisisDC Planning Seminar)]
+* [Marja Vierros ja Timo Korkiakangas, "SunoikisisDC - liitouma klassisten kielten opettamiseksi", Folium Classicum, 88, 2015 (report on the SunoikisisDC 2015 Planning Seminar)]
 
 
