@@ -14,4 +14,6 @@
 ## Reports
 * [Marja Vierros ja Timo Korkiakangas, "SunoikisisDC - liitouma klassisten kielten opettamiseksi", Folium Classicum, 88, 2015 (report on the SunoikisisDC 2015 Planning Seminar)](https://github.com/SunoikisisDC/SunoikisisDC-2015/blob/master/Reports/Folium%2088_2015.pdf)
 
+## Field Activities
+* [Visible Words Digital Contextual Epigraphy - Thasos, May 11-19, 2015](http://vw2015program.postach.io/post/scientific-program-thasos-may-11-19-2015)
 
