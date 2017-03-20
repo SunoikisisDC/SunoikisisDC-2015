@@ -7,16 +7,16 @@
 ### SunoikisisDC 2015 Summer Semester Course
 * [SunoikisisDC 2015 Summer Semester Course Syllabus (Google doc)](https://docs.google.com/document/d/1cPfOKTnGc5Mhu7UyA3LEdh5i990vpV0Fg1X23JS9vqc/edit#)
 * [SunoikisisDC 2015 Google+ Community](https://plus.google.com/communities/111554347732292682282)
-* [SunoikisisDC 2015 live broadcast of each common session] (https://github.com/SunoikisisDC/SunoikisisDC-2015/wiki/SunoikisisDC-2015-Live-Broadcast-of-Common-Sessions)
-* [SunoikisisDC 2015 Common Sessions Slides] (https://github.com/SunoikisisDC/SunoikisisDC-2015/tree/master/SunoikisisDC2015-CommonSessions_Slides)
+* [SunoikisisDC 2015 live broadcast of each common session](https://github.com/SunoikisisDC/SunoikisisDC-2015/wiki/SunoikisisDC-2015-Live-Broadcast-of-Common-Sessions)
+* [SunoikisisDC 2015 Common Sessions Slides](https://github.com/SunoikisisDC/SunoikisisDC-2015/tree/master/SunoikisisDC2015-CommonSessions_Slides)
 
 ### SunoikisisDC 2015 Wiki
 * [Summer Semester 2015 Course Wiki](https://github.com/SunoikisisDC/SunoikisisDC-2015/wiki)
 
 ***
 ## Other activities
-* [Sunoikisis Digital Classics - Sunoikisis CHS Faculty Seminar Common Day 2015 - slides] (https://github.com/SunoikisisDC/SunoikisisDC-2015/blob/master/SunoikisisDC_CHS_June10_2015.pdf) - [live broadcast] (https://www.youtube.com/watch?list=PLIGRj4s15M1bSoBtxWHpgWoW9g4rF6sfq&v=hITq95mfM08)
-* [Sunoikisis Digital Classics - Digital Classicist Seminar Series London 2015 - slides] (https://github.com/SunoikisisDC/SunoikisisDC-2015/blob/master/SunoikisisDC_DigitalClassicistLondon_July10_2015.pdf) - [live broadcast](https://www.youtube.com/watch?v=zpBR0bb8gxk)
+* [Sunoikisis Digital Classics - Sunoikisis CHS Faculty Seminar Common Day 2015 - slides](https://github.com/SunoikisisDC/SunoikisisDC-2015/blob/master/SunoikisisDC_CHS_June10_2015.pdf) - [live broadcast] (https://www.youtube.com/watch?list=PLIGRj4s15M1bSoBtxWHpgWoW9g4rF6sfq&v=hITq95mfM08)
+* [Sunoikisis Digital Classics - Digital Classicist Seminar Series London 2015 - slides](https://github.com/SunoikisisDC/SunoikisisDC-2015/blob/master/SunoikisisDC_DigitalClassicistLondon_July10_2015.pdf) - [live broadcast](https://www.youtube.com/watch?v=zpBR0bb8gxk)
 
 ***
 ## Reports
