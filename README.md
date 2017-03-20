@@ -5,10 +5,12 @@
 
 ***
 ### SunoikisisDC 2015 Summer Semester Course
-* [SunoikisisDC 2015 Summer Semester Course Syllabus (Google doc)](https://docs.google.com/document/d/1cPfOKTnGc5Mhu7UyA3LEdh5i990vpV0Fg1X23JS9vqc/edit#">SS 2015 Course Syllabus)
+* [SunoikisisDC 2015 Summer Semester Course Syllabus (Google doc)](https://docs.google.com/document/d/1cPfOKTnGc5Mhu7UyA3LEdh5i990vpV0Fg1X23JS9vqc/edit#)
 * [SunoikisisDC 2015 Google+ Community](https://plus.google.com/communities/111554347732292682282)
 * [SunoikisisDC 2015 live broadcast of each common session] (https://github.com/SunoikisisDC/SunoikisisDC-2015/wiki/SunoikisisDC-2015-Live-Broadcast-of-Common-Sessions)
 * [SunoikisisDC 2015 Common Sessions Slides] (https://github.com/SunoikisisDC/SunoikisisDC-2015/tree/master/SunoikisisDC2015-CommonSessions_Slides)
+
+### SunoikisisDC 2015 Wiki
 * [Summer Semester 2015 Course Wiki](https://github.com/SunoikisisDC/SunoikisisDC-2015/wiki)
 
 ***
