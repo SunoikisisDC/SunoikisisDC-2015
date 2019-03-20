@@ -26,3 +26,9 @@
 ## Field Activities
 * [Visible Words Digital Contextual Epigraphy - Thasos, May 11-19, 2015](http://vw2015program.postach.io/post/scientific-program-thasos-may-11-19-2015)
 
+***
+#### License
+
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />Contents of the SunoikisisDC Consortium are licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
+
+
